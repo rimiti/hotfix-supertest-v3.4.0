@@ -1,0 +1,25 @@
+{
+  "name": "hotfix-supertest-v3.4.0",
+  "version": "1.0.0",
+  "description": "Supertest v3.4.0 hotfix.",
+  "main": "index.js",
+  "dependencies": {
+    "ava": "^1.1.0",
+    "express": "^4.16.4",
+    "supertest": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ava index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimiti/hotfix-supertest-v3.4.0.git"
+  },
+  "author": "Dimitri DO BAIRRO <dimitri.dobairro@dimsolution.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rimiti/hotfix-supertest-v3.4.0/issues"
+  },
+  "homepage": "https://github.com/rimiti/hotfix-supertest-v3.4.0#readme"
+}
