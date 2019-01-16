@@ -2,7 +2,7 @@ const test = require('ava');
 const express = require('express');
 const request = require('supertest');
 
-test('GET /something returns 301 with correct location', async t => {
+test('Should success.', async t => {
     const app = express();
     await request(app)
         .post("/api/someurl")
